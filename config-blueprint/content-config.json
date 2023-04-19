@@ -3,7 +3,10 @@
     "data": {
       "admin": {
         "role": {
-          "publish": "*@adobe.com"
+          "publish": [
+						"*@adobe.com",
+						"publishers.json"
+					]
         }
       }
     }
