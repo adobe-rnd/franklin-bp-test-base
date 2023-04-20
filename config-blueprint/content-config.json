@@ -4,9 +4,9 @@
       "admin": {
         "role": {
           "publish": [
-						"*@adobe.com",
-						"publishers.json"
-					]
+            "*@adobe.com",
+            "publishers.json"
+          ]
         }
       }
     }
